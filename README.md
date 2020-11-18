@@ -1,4 +1,4 @@
 # Utilidad
 
-Comandos necesarios para trabajar con Expresines Regulares
+Comandos necesarios para trabajar con Expresiones Regulares
 
